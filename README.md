@@ -11,6 +11,6 @@ Windows: "`\FL Studio 2024\System\Config\Piano roll scripts`" <br>
 Small python scripts for FL Studio <br>
 I am not responsible for any problems that may arise from the use of this scripts <br>
 # How to install (in FL Studio 2024)
-Copy your desired scripts to... <br>
+Copy the scripts that you need, to... <br>
 Mac: "`/Applications/FL Studio 2024/Contents/Resources/FL/System/Config/Piano roll scripts`" <br>
 Windows: "`\FL Studio 2024\System\Config\Piano roll scripts`" <br>
