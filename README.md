@@ -2,6 +2,7 @@
 FL Studioのスクリプト（集） <br>
 良識の範囲でご自由にお使いください <br>
 もし問題が起きても自己責任でお願いいたします <br>
+・・・ばぐったらごめんなさい <br>
 # インストール方法 (FL Studio 2024)
 Mac: "`/Applications/FL Studio 2024/Contents/Resources/FL/System/Config/Piano roll scripts`" <br>
 Windows: "`\FL Studio 2024\System\Config\Piano roll scripts`" <br>
