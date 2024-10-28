@@ -1,0 +1,19 @@
+from flpianoroll import *
+
+inputKnobName_01 = 'Number of color'
+
+def createDialog():
+    form = ScriptDialog('Change the color of the selected notes', 'ピアノロールのパレットに選択されている1 から 16 番までの数字を選択してください。')
+    # form.AddInputCombo('Number of color:', ['12', '13', '14', '15', '16'], 0)
+    form.AddInputKnobInt(inputKnobName_01, 0, 1, 16)
+    return form
+
+def apply(form):
+    # 未使用
+    # Utils.ShowMessage('Refresh')
+    # Utils.ShowMessage(form.GetInputValue('Number of color:'))
+    
+    value = round(form.GetInputValue(inputKnobName_01))
+
+    for i in range (score.noteCount):
+        score.getNote(i).color = value - 1 # インデックスとUIの都合
