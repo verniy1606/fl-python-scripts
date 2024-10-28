@@ -1,6 +1,6 @@
 # fl-python-scripts
 FL Studioのスクリプト（集） <br>
-良識の範囲でご自由に使ってください <br>
+良識の範囲でご自由にお使いください <br>
 もし問題が起きても自己責任でお願いいたします <br>
 # インストール方法 (FL Studio 2024)
 Mac: "`/Applications/FL Studio 2024/Contents/Resources/FL/System/Config/Piano roll scripts`" <br>
